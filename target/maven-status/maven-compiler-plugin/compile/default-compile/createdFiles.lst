@@ -1,0 +1,6 @@
+com\manqingxing\service\impl\UserServiceImpl.class
+com\manqingxing\model\User.class
+com\manqingxing\dao\IUserDao.class
+com\manqingxing\service\IUserService.class
+com\manqingxing\beantool\GenMain.class
+com\manqingxing\controller\UserController.class
